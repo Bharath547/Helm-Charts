@@ -3,12 +3,22 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-26T09:42:22.253929009Z"
+    created: "2023-10-26T11:25:20.854963709Z"
     description: A Helm chart for Kubernetes
-    digest: 8f10fdd41682394a1b0af9a051e1776dee63e81235f09320be02080aaafa5a6a
+    digest: 68f86a87542f33542a6179bd4a57af07d7b8b33a791f4d0a045b1dcb8e12d838
     name: mychart
     type: application
     urls:
-    - https://Bharath547.github.io/Helm-Charts/mychart-0.2.0.tgz
-    version: 0.2.0
-generated: "2023-10-26T09:42:22.253188645Z"
+    - jenkins-helm-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-26T11:25:20.85549592Z"
+    description: A Helm chart for Kubernetes
+    digest: 6297dae1ea7456672a9a95418ed18cb3febc263ebe1cb81a46057ba484651598
+    name: mychart
+    type: application
+    urls:
+    - mychart-0.2.0.tgz
+    version: 0.1.0
+generated: "2023-10-26T11:25:20.85427796Z"
