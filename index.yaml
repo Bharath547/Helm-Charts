@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://Bharath547.github.io/Helm-Charts/mychart-0.1.0.tgz
+    - https://Bharath547.github.io/Helm-Charts/mychart-0.2.0.tgz
     version: 0.2.0
 generated: "2023-10-26T09:42:22.253188645Z"
