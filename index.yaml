@@ -1,25 +1,14 @@
 apiVersion: v1
 entries:
-  jenkins-helm:
+  nginx-deployment:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-26T12:32:48.745216471Z"
+    created: "2023-10-27T07:15:28.228420996Z"
     description: A Helm chart for Kubernetes
-    digest: 22f24e43015c195a1acce22e6bbe826a165cca57ccfa8f9885198621dd69e814
-    name: jenkins-helm
+    digest: 08c9c4937692964473021754dda93805ace52a9e595397f668b2cf9ad85d0b29
+    name: nginx-deployment
     type: application
     urls:
-    - jenkins-helm-0.1.0.tgz
+    - nginx-deployment-0.1.0.tgz
     version: 0.1.0
-  mychart:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-10-26T12:32:48.745796043Z"
-    description: A Helm chart for Kubernetes
-    digest: 6297dae1ea7456672a9a95418ed18cb3febc263ebe1cb81a46057ba484651598
-    name: mychart
-    type: application
-    urls:
-    - mychart-0.2.0.tgz
-    version: 0.1.0
-generated: "2023-10-26T12:32:48.74451774Z"
+generated: "2023-10-27T07:15:28.227564968Z"
