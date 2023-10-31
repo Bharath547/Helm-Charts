@@ -3,9 +3,9 @@ entries:
   busybox-deployment:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-31T08:28:30.489893353Z"
+    created: "2023-10-31T08:30:24.360504692Z"
     description: A Helm chart for Kubernetes
-    digest: bee7335552f1f97528af7bfd7cd16352d79c75844bd8eb6d3a1a8132e0840c43
+    digest: b7f8c5670a6cdb58a5472b5d9cef1be28a5ba2648ecf7b78e6cbe03ca0237b6c
     name: busybox-deployment
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   nginx-deployment:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-31T08:28:30.491924826Z"
+    created: "2023-10-31T08:30:24.361689875Z"
     description: A Helm chart for Kubernetes
     digest: 91175e88f161f0fe2f4ec4d596a38f57f213b4669981eadba42d369df36d143c
     name: nginx-deployment
@@ -24,7 +24,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-31T08:28:30.490754315Z"
+    created: "2023-10-31T08:30:24.361106162Z"
     description: A Helm chart for Kubernetes
     digest: 6605df9097a32c93e5f2a5cbe91c83dab3fc85b317766270ed04c46d663ce726
     name: nginx-deployment
@@ -32,4 +32,4 @@ entries:
     urls:
     - nginx-deployment-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-31T08:28:30.484335972Z"
+generated: "2023-10-31T08:30:24.359845717Z"
