@@ -3,9 +3,9 @@ entries:
   nginx-deployment:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-31T05:28:27.783426915Z"
+    created: "2023-10-31T06:03:12.570951333Z"
     description: A Helm chart for Kubernetes
-    digest: 566fd336a38e7ee191c750ca88f424a04bcf314f3dba46b3670e2f9e662252c5
+    digest: 4dac98c4ae3ab4c92087d3466c66e559a20ed0b8a0fbdefc42bfc51c154a0357
     name: nginx-deployment
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-31T05:28:27.782788248Z"
+    created: "2023-10-31T06:03:12.57037089Z"
     description: A Helm chart for Kubernetes
     digest: 6605df9097a32c93e5f2a5cbe91c83dab3fc85b317766270ed04c46d663ce726
     name: nginx-deployment
@@ -21,4 +21,4 @@ entries:
     urls:
     - nginx-deployment-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-31T05:28:27.781900826Z"
+generated: "2023-10-31T06:03:12.569549315Z"
